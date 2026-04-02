@@ -12,7 +12,7 @@ Welcome to my portfolio! I am a composite talent with a dual background in **Eng
 
 ### 1. Data-Driven Color Economics: EV Market Alpha (Qualcomm Ventures)
 *Decoding new growth signals in the Electric Vehicle sector through alternative data.*
-* [cite_start]**Business Value:** Transformed automotive color from a subjective aesthetic issue into a quantifiable and interpretable business strategy to assess EV startups' market positioning[cite: 4].
+* [cite_start] **Business Value:** Transformed automotive color from a subjective aesthetic issue into a quantifiable and interpretable business strategy to assess EV startups' market positioning [cite: 4].
 * [cite_start]**Technical Execution:** * Quantified thousands of unstructured color names by applying the K-Means clustering algorithm in the HSV color space[cite: 4].
   * [cite_start]Addressed extreme class imbalance via custom data augmentation and trained a **Multi-Output XGBoost** model, achieving a Jaccard Similarity Score of 0.7850[cite: 4].
   * [cite_start]Applied **SHAP values** to reveal a three-tiered decision logic: "Brand-Positioning-Attributes"[cite: 4].
